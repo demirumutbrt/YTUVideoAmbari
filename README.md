@@ -8,7 +8,7 @@ Bu proje, **sadece kendi üniversitemize ait öğrenciler** tarafından kullanı
 
 Proje, pandemi sonrası dönemde bile **kalıcı bir öğrenci dayanışması ve bilgi paylaşımı** ortamı yaratmayı hedefliyor. Özellikle sınav dönemlerinde, devamsızlık durumunda veya konuyu anlamakta zorlanan öğrenciler için büyük kolaylık sağlayacak.
 
-### 🎯 Projenin Motivasyonu ve Sorun Çözümü
+### Projenin Motivasyonu ve Sorun Çözümü
 
 - **Pandemi Mirası**: COVID döneminde ve daha sonrasında çekilen kaliteli online ders videoları kaybolmasın, tüm öğrenciler faydalansın.
 - **Erişim Eşitsizliği**: Herkes aynı dersi aynı hocadan aynı kalitede alamıyor. Bir öğrenci iyi anlatılan bir videoyu paylaşarak diğerlerine yardımcı olabiliyor.
@@ -40,14 +40,14 @@ Proje, pandemi sonrası dönemde bile **kalıcı bir öğrenci dayanışması ve
   - Bologna sistemine göre ders müfredatı
   
 
-## 📋 Kullanım Senaryoları
+##  Kullanım Senaryoları
 
 1. Bir öğrenci 2022 Bahar dönemi "Veri Yapıları" dersinin videosunun linkini paylaşıyor.
 2. Aynı bölümdeki bir başka öğrenci "Veri Yapıları" araması yaparak tüm paylaşılan videoları ve notları görüyor.
 3. Elektrik-Elektronik bölümünden bir öğrenci, Bilgisayar Mühendisliği'nin "Algoritmalar" dersini merak edip videoları izliyor.
 4. Sınav öncesi birçok öğrenci aynı dersten birden fazla hocanın videosunu karşılaştırarak çalışıyor.
 
-## 🎓 Hedef Kitle
+##  Hedef Kitle
 
 - Aynı üniversitede okuyan tüm lisans ve yüksek lisans öğrencileri
 - Özellikle 2020-2023 arası pandemi dönemi ders videolarını ve sonrası online videoları kaçıran veya tekrar izlemek isteyen öğrenciler
